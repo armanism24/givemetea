@@ -1,0 +1,30 @@
+.text-white {
+    color: black!important;
+}
+.btn {
+    background-color: #3CAC16!important;
+}
+.p-nav a.nav-link:not(.btn){
+color: black!important;
+}
+.max-w-100 {
+    max-width: 160px!important;
+}
+body a, .btn-outline-primary{
+color: white!important;
+}
+.link-footer:not(.footer-tiny){
+color:#5f5f5f!important;
+}
+.dropdown-item{
+color:#212529!important;
+}
+.btn-category{
+background-color: white!important;
+}
+.button-search{
+background-color: transparent!important;
+}
+.max-w-125{
+    max-width: 200px!important;
+}
