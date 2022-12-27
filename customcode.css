@@ -10,7 +10,7 @@ color: black!important;
 .max-w-100 {
     max-width: 160px!important;
 }
-body a, .btn-outline-primary{
+.btn-outline-primary{
 color: white!important;
 }
 .link-footer:not(.footer-tiny){
@@ -27,4 +27,19 @@ background-color: transparent!important;
 }
 .max-w-125{
     max-width: 200px!important;
+}
+.menu-left-home li > a{
+    color: #8a96a3!important;
+}
+.menu-left-home li > a:hover{
+color: white!important;
+}
+.menu-left-home li > a.active{
+color: white!important;
+}
+a.link-border {
+    color: #8898aa!important;
+}
+.btn-upload{
+background-color: transparent!important;
 }
